@@ -1,0 +1,13 @@
+# 1. strava app ----------------------------------------------------------------
+# -----------------------------------------------------------------------------#
+
+app_name: tocomplete # chosen by user
+app_client_id: tocomplete # an integer, assigned by Strava
+app_secret: tocomplete # an alphanumeric secret, assigned by Strava
+id_athlete: tocomplete
+
+
+# 2. parameters ----------------------------------------------------------------
+# -----------------------------------------------------------------------------#
+
+year: 2021
